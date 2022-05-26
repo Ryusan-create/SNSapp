@@ -1,4 +1,4 @@
 <?php
-var a
+const a=1
 print(a);
 ?>
